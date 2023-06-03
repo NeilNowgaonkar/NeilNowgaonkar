@@ -12,4 +12,4 @@ I am a BTech Computer Engineering student at Vishwakarma Institute of Technology
 
 ## 📫 Connect With Me
 
-<a href="mailto:nowgaonkarneil@gmail.com"> ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/neil-nowgaonkar"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/neil_nowgaonkar/"> ![Instagram](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="mailto:nowgaonkarneil@gmail.com"> ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/neil-nowgaonkar-540469143"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/neil_nowgaonkar/"> ![Instagram](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)</a>
